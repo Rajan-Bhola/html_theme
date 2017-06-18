@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://carlofarruggia.com/sitemap.xml
